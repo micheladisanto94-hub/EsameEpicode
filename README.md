@@ -1,2 +1,0 @@
-# EsameEpicode
-Progetto esame 
